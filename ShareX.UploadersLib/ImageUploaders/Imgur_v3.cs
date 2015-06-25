@@ -223,7 +223,7 @@ namespace ShareX.UploadersLib.ImageUploaders
                             }
                             else
                             {
-                                result.URL = "http://imgur.com/" + uploadData.id;
+                                result.URL = "http://blazed.af/igj/" + uploadData.id;
                             }
 
                             int index = result.URL.LastIndexOf('.');
